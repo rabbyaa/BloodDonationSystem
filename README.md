@@ -2,7 +2,7 @@ Project Overview
 
 The Blood Donation System is a Java-based desktop application designed to connect blood donors and recipients efficiently. It helps manage donor information, blood requests, and matching blood groups to ensure quick and reliable access to blood in emergency situations.
 
-🚀 Features
+ Features
 
  Donor management (add, update, view records)
  Blood request handling system
